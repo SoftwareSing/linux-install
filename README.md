@@ -27,3 +27,13 @@ this script just install `ssh`
 ```sh
 wget -qO- https://raw.githubusercontent.com/SoftwareSing/linux-install/master/install-ssh.sh | bash
 ```
+
+
+## install-chrome
+[install-chrome.sh](/install-chrome.sh)
+
+this script just install `chrome`
+
+```sh
+wget -qO- https://raw.githubusercontent.com/SoftwareSing/linux-install/master/install-chrome.sh | bash
+```
