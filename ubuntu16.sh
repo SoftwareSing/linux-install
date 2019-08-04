@@ -12,7 +12,7 @@ sudo apt install -y curl
 sudo apt install -y git
 sudo apt install -y lm-sensors
 
-curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
 echo "success install nvm"
 echo "use \"exec bash --login\" to reload terminal"
 echo "use \"nvm install --lts\" to install node"
