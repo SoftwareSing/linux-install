@@ -29,6 +29,25 @@ wget -qO- https://softwaresing.github.io/linux-install/ssh.sh | bash
 ```
 
 
+## mongodb
+[mongodb.sh](/mongodb.sh)
+
+https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
+
+this script install `mongodb` for ubuntu16
+
+```sh
+wget -qO- https://softwaresing.github.io/linux-install/mongodb.sh | bash
+```
+
+for ubuntu18
+
+```sh
+wget -qO- https://softwaresing.github.io/linux-install/mongodb-ubuntu18.sh | bash
+```
+
+
+
 ## chrome
 [chrome.sh](/chrome.sh)
 
