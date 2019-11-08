@@ -8,9 +8,7 @@
 sudo apt install -y openssh-server
 sudo service ssh restart
 
-sudo apt install -y curl
-sudo apt install -y git
-sudo apt install -y lm-sensors
+sudo apt install -y curl git lm-sensors htop
 
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
 echo "success install nvm"

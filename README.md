@@ -7,7 +7,7 @@ some shell script to help you set when you reinstall Linux
 
 this script will instal
 
-`ssh`, `curl`, `git`, `lm-sensors`, `nvm`
+`ssh`, `curl`, `git`, `lm-sensors`, `htop`, `nvm`
 
 ```sh
 wget -qO- https://softwaresing.github.io/linux-install/for-ubuntu16.sh | bash
