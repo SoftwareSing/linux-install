@@ -56,3 +56,13 @@ this script just install `chrome`
 ```sh
 wget -qO- https://softwaresing.github.io/linux-install/chrome.sh | bash
 ```
+
+
+
+## docker
+[docker.sh](/docker.sh)
+
+```sh
+wget -qO- https://softwaresing.github.io/linux-install/docker.sh | bash
+```
+
